@@ -31,8 +31,8 @@ I’m a 3rd year B.Tech Computer Science student passionate about full-stack web
 ### 💻 Programming & DSA
 - **Primary Language:** C++
 - **Platforms:**  
-  - ✅ 374+ Problems on LeetCode  
-  - ✅ 100+ Problems on GeeksForGeeks  
+  - ✅ 450+ Problems on LeetCode  
+  - ✅ 120+ Problems on GeeksForGeeks  
   - 🏆 Hackathon Winner (College Level)
 
 ### ☁️ Cloud
@@ -48,7 +48,7 @@ I’m a 3rd year B.Tech Computer Science student passionate about full-stack web
 ---
 
 ## 📫 Let's Connect!
-If you want to collaborate, discuss projects, or chat about tech, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rohitrao835589) or check out my repositories right here on GitHub.
+If you want to collaborate, discuss projects, or chat about tech, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rohitrao8355) or check out my repositories right here on GitHub.
 
 ---
 
